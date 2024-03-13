@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571817782764",
+    "project_id": "pmf-rn-push",
+    "storage_bucket": "pmf-rn-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571817782764:android:6d59e1e45d1d241b0b64c9",
+        "android_client_info": {
+          "package_name": "com.pmf.rn.push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIM5s8Av7upddxBBED-nkljdRNAX-Mfks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
